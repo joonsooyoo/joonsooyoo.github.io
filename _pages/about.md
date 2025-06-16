@@ -12,3 +12,15 @@ My research focuses on secure protocols for data analysis and post-quantum crypt
 
 You can find more about my [publications](/publications/), [teaching](/teaching/), and [CV](/cv/).  
 Feel free to reach out via [email](mailto:sandiegojs@gmail.com).
+
+## Education
+
+* **Ph.D., Korea University, Information Security** (Sep 2020 – Feb 2025)
+  * Dissertation: Efficient and Scalable Privacy-Preserving Data Analysis Using Fully Homomorphic Encryption
+  * Advisor: Prof. Jiwon Yoon
+* **M.S., Korea University, Information Security** (Sep 2017 – Feb 2020)
+  * Thesis: Privacy-Preserving Data Mining: Bitwise Implementation of Advanced Algorithms over the Encrypted Domain Using Homomorphic Encryption
+  * Advisor: Prof. Jiwon Yoon
+* **B.S., Korea University, Mathematics** (Mar 2008 – Feb 2017)
+  * Minor: Information Security
+  * Advisor: Prof. Euisung Park
