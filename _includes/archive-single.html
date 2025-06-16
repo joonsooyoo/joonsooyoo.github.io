@@ -42,9 +42,20 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
+        {% elsif post.collection == 'projects' %}
+  <p class="page__date">
+    <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong>
+    {{ post.project_duration | default: post.date | date: "%b %Y" }}
+    {% if post.project_funder %}
+      &nbsp;&nbsp;<i class="fa fa-fw fa-university" aria-hidden="true"></i> {{ post.project_funder }}
+    {% endif %}
+  </p>
+{% elsif post.date %}
+  <p class="page__date">
+    <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
+    <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
+  </p>
+{% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>

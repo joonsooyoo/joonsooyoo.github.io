@@ -5,7 +5,8 @@ type: "Project"
 permalink: /projects/2025-06-01-pqc-space-cybersecurity
 excerpt: "PQC-based key exchange and encryption optimized for satellite-ground data security."
 date: 2025-06-01
-venue: "Korean Research Foundation"
+project_duration: "Jun 2025 – Present"
+project_funder: "CONTEC (컨텍)"
 ---
 
 **우주사이버보안양자내성암호(PQC)기술연구개발**
