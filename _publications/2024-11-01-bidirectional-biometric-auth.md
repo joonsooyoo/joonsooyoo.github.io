@@ -6,8 +6,7 @@ permalink: /publication/2024-11-01-bidirectional-biometric-auth
 excerpt: "This paper presents a lightweight biometric authentication protocol using TFHE-based transciphering to minimize ciphertext size and network overhead."
 date: 2024-11-01
 venue: 'Preprint (Submitted to Journal)'
-paperurl: 'https://arxiv.org/abs/2401.12345'  # Replace with actual link if public
-bibtexurl: 'https://joonsooyoo.github.io/files/bibtex-biometric.bib'
+paperurl: 'http://arxiv.org/abs/2506.12802'
 citation: 'J.S. Yoo, T.M. Ahn, J.W. Yoon. (2024). "Bidirectional Biometric Authentication Using Transciphering and (T)FHE." Preprint.'
 ---
 
