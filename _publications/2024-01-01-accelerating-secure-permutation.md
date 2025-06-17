@@ -6,8 +6,6 @@ permalink: /publication/2024-01-01-accelerating-secure-permutation
 excerpt: "We present techniques to accelerate secure permutation operations with applications to encrypted matrix computations."
 date: 2024-01-01
 venue: 'IEEE Access'
-paperurl: ''
-bibtexurl: ''
 citation: 'J.W. Heo, J.S. Yoo, B.K. Song, J.W. Yoon. (2024). "Accelerating Secure Permutation: Application to Matrix Algebra." <i>IEEE Access</i>.'
 ---
 
