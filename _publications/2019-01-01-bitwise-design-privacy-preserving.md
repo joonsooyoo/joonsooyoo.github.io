@@ -6,8 +6,6 @@ permalink: /publication/2019-01-01-bitwise-design-privacy-preserving
 excerpt: "Comprehensive bitwise constructions enable efficient privacy-preserving data mining using FHE."
 date: 2019-01-01
 venue: 'Security and Communication Networks'
-paperurl: ''
-bibtexurl: ''
 citation: 'B.K. Song, J.S. Yoo, M.Y. Hong, J.W. Yoon. (2019). "A Bitwise Design and Implementation for Privacy-Preserving Data Mining: From Atomic Operations to Advanced Algorithms." <i>Security and Communication Networks</i>.'
 ---
 
