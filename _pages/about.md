@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm **Joon Soo Yoo**, a postdoctoral researcher at Korea University specializing in **privacy-preserving computation**, **cryptography**, and **homomorphic encryption**.  
+Welcome! I'm **Joon Soo Yoo**, a postdoctoral researcher at Korea University specializing in **homomorphic encryption**, **post-quantum cryptography**, and **cryptanalysis**.  
 My research focuses on secure protocols for data analysis and post-quantum cryptographic systems applicable to real-world environments such as satellite communication and biometric authentication.
 
 You can find more about my [publications](/publications/), [teaching](/teaching/), and [CV](/cv/).  
@@ -22,5 +22,4 @@ Feel free to reach out via [email](mailto:sandiegojs@gmail.com).
   * Thesis: Privacy-Preserving Data Mining: Bitwise Implementation of Advanced Algorithms over the Encrypted Domain Using Homomorphic Encryption
   * Advisor: Prof. Jiwon Yoon
 * **B.S., Korea University, Mathematics** (Mar 2008 – Feb 2017)
-  * Minor: Information Security
   * Advisor: Prof. Euisung Park
