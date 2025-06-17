@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 Welcome! I'm **Joon Soo Yoo**, a postdoctoral researcher at Korea University specializing in **homomorphic encryption**, **post-quantum cryptography**, and **cryptanalysis**.  
+
 My research focuses on secure protocols for data analysis and post-quantum cryptographic systems applicable to real-world environments such as satellite communication and biometric authentication.
 
-You can find more about my [publications](/publications/), [teaching](/teaching/), and [CV](/cv/).  
+You can find more about my [publications](/publications/), [projects](/projects/), [patents](/patents/), and [teaching](/teaching/).  
+
 Feel free to reach out via [email](mailto:sandiegojs@gmail.com).
 
 ## Education
