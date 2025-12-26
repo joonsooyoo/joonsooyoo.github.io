@@ -1,30 +1,27 @@
 ---
 permalink: /
-title: "Joon Soo Yoo - Assistant Professor at JBNU"
+title: "Joon Soo Yoo - Postdoctoral Researcher in Information Security"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I'm **Joon Soo Yoo**, an **Assistant Professor** in the Department of Advanced Defense Industry Convergence at **Jeonbuk National University**, starting from **October 2025**.
+Welcome! I'm **Joon Soo Yoo**, a postdoctoral researcher at Korea University specializing in **homomorphic encryption**, **post-quantum cryptography**, and **cryptanalysis**.  
 
-My research lies in **cybersecurity**, with particular emphasis on **robotic security**, **space security**, and **post-quantum security**.  
+My research focuses on secure protocols for data analysis and post-quantum cryptographic systems applicable to real-world environments such as satellite communication and biometric authentication.
 
-Previously, I was a **Postdoctoral Researcher at Korea University**, where I worked on **homomorphic encryption**, **privacy-preserving data analysis**, and **post-quantum cryptography**.
+You can find more about my [publications](/publications/), [projects](/projects/), [patents](/patents/), and [teaching](/teaching/).  
 
-You can find more about my [publications](/publications/), [projects](/projects/), [patents](/patents/), and [teaching](/teaching/).
-
-Feel free to reach out via [email](mailto:joonsooyoo@jbnu.ac.kr).
+Feel free to reach out via [email](mailto:sandiegojs@gmail.com).
 
 ## Education
 
-* **Ph.D., Korea University, Information Security** (Sep 2020 – Feb 2025)  
-  * Dissertation: *Efficient and Scalable Privacy-Preserving Data Analysis Using Fully Homomorphic Encryption*  
+* **Ph.D., Korea University, Information Security** (Sep 2020 – Feb 2025)
+  * Dissertation: Efficient and Scalable Privacy-Preserving Data Analysis Using Fully Homomorphic Encryption
   * Advisor: Prof. Jiwon Yoon
-
-* **M.S., Korea University, Information Security** (Sep 2017 – Feb 2020)  
-  * Thesis: *Privacy-Preserving Data Mining: Bitwise Implementation of Advanced Algorithms over the Encrypted Domain Using Homomorphic Encryption*  
+* **M.S., Korea University, Information Security** (Sep 2017 – Feb 2020)
+  * Thesis: Privacy-Preserving Data Mining: Bitwise Implementation of Advanced Algorithms over the Encrypted Domain Using Homomorphic Encryption
   * Advisor: Prof. Jiwon Yoon
-
 * **B.S., Korea University, Mathematics** (Mar 2008 – Feb 2017)
+  * Advisor: Prof. Euisung Park
