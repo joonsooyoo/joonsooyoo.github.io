@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joon Soo Yoo - Postdoctoral Researcher in Information Security"
+title: "Joon Soo Yoo - Assistant Professor at JBNU"
 author_profile: true
 redirect_from: 
   - /about/
