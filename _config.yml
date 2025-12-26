@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Joon Soo Yoo"
 title_separator          : "-"
 name                     : &name "Joon Soo Yoo"
-description              : &description "postdoctoral researcher"
+description              : &description "Assistant Professor"
 url                      : https://joonsooyoo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joonsooyoo/joonsooyoo.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Joon Soo Yoo"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher in Information Security"
+  bio              : "Assistant Professor of Cybersecurity"
   location         : "Seoul, KR"
-  employer         : "Korea University"
+  employer         : "Jeonbuk National University"
   uri              : # URL
-  email            : "sandiegojs@gmail.com" 
+  email            : "joonsooyoo@jbnu.ac.kr" 
 
   # Academic websites
   academia         : # URL
